@@ -1,8 +1,8 @@
 # TEST
 [Index](../README.md)
 
-1. [part 1](test#part_1)
-2. [part 2](test#part_2)
+1. [part 1](test.md#part_1)
+2. [part 2](test.md#part_2)
 
 Just some gibberish..  
 
