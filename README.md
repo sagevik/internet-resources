@@ -6,3 +6,5 @@ Most likely shortly abandoned.. ;)
 ### Degoogle
 [https://git.tycrek.com/archive/degoogle](https://git.tycrek.com/archive/degoogle)
 
+### Test
+[test](test/test.md)
