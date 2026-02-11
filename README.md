@@ -8,3 +8,7 @@ Most likely shortly abandoned.. ;)
   
 A huge list of alternatives to Google products. Privacy tips, tricks, and links.  
 [https://git.tycrek.com/archive/degoogle](https://git.tycrek.com/archive/degoogle)
+
+### Public XMPP servers
+[https://list.jabber.at/](https://list.jabber.at/)
+
