@@ -1,9 +1,9 @@
 # TEST
 [Index](../README.md)
 
-1. [part 1](test.md#part-1)
-2. [part 2](test.md#part-2)
-  2.1. [part 3](test.md#part-3)
+1. [part 1](test.md#part-1)  
+2. [part 2](test.md#part-2)  
+  2.1. [part 3](test.md#part-3)  
 
 Just some gibberish..  
 
