@@ -3,6 +3,7 @@
 
 1. [part 1](test.md#part-1)
 2. [part 2](test.md#part-2)
+  2.1. [part 3](test.md#part-3)
 
 Just some gibberish..  
 
@@ -57,4 +58,17 @@ risus, eu semper nisi imperdiet eget. Duis dictum arcu ac venenatis finibus.
 Aliquam rutrum leo tristique lorem gravida tincidunt. Donec bibendum porttitor  
 lacus.  
 
-[Index](../README.md)
+### part 3
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam lobortis, ex  
+vel semper consequat, magna neque porttitor lacus, quis semper elit felis ut  
+tortor. Nunc tristique leo risus, ut tincidunt orci malesuada ut. Donec tellus  
+nisl, euismod eu lobortis sit amet, interdum volutpat ipsum.  
+  
+Integer congue tincidunt felis quis convallis. Phasellus quis feugiat justo, et  
+dictum metus. Aenean tristique tempus orci at ornare. Vestibulum vulputate sem  
+risus, eu semper nisi imperdiet eget. Duis dictum arcu ac venenatis finibus.  
+Aliquam rutrum leo tristique lorem gravida tincidunt. Donec bibendum porttitor  
+lacus.  
+
+[Top](test.md) [Index](../README.md)
