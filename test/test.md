@@ -1,8 +1,8 @@
 # TEST
 [Index](../README.md)
 
-1. [part 1](test.md#part_1)
-2. [part 2](test.md#part_2)
+1. [part 1](test.md#part-1)
+2. [part 2](test.md#part-2)
 
 Just some gibberish..  
 
@@ -31,7 +31,7 @@ Aliquam rutrum leo tristique lorem gravida tincidunt. Donec bibendum porttitor
 lacus.  
   
 
-## part_1
+## part 1
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam lobortis, ex  
 vel semper consequat, magna neque porttitor lacus, quis semper elit felis ut  
@@ -44,7 +44,7 @@ risus, eu semper nisi imperdiet eget. Duis dictum arcu ac venenatis finibus.
 Aliquam rutrum leo tristique lorem gravida tincidunt. Donec bibendum porttitor  
 lacus.  
 
-### part_2
+### part 2
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam lobortis, ex  
 vel semper consequat, magna neque porttitor lacus, quis semper elit felis ut  
